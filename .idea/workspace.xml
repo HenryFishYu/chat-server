@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="chat-server:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9656ac54-25ab-48e1-a7e0-f5e63666fdef" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +31,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Zn1FzvngBaXZP28Y79ngDWbkmf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -121,7 +130,7 @@
       <workItem from="1586152476816" duration="10161000" />
       <workItem from="1586499602454" duration="7355000" />
       <workItem from="1586927774287" duration="14210000" />
-      <workItem from="1587011851198" duration="7023000" />
+      <workItem from="1587011851198" duration="7630000" />
     </task>
     <servers />
   </component>
